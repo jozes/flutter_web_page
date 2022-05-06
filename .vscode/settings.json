@@ -3,5 +3,6 @@
     "todo-tree.tree.showCountsInTree": true,
     "files.associations": {
         "*.yaml": "home-assistant"
-    }
+    },
+    "dart.flutterSdkPath": "/Users/jozes/development/flutter_2.8"
 }
